@@ -1,0 +1,29 @@
+body{
+   color:black;
+}
+button{
+    height:40px;
+    width:100px;
+    border:none;
+    background:blueviolet;
+    color:blue;
+    outline:none;
+    box-shadow:4px 4px 10px #acacac;
+}
+
+button:hover{
+    background-color: green;
+}
+
+.responsive{
+    height:60vh;
+    width:40vh;
+    padding:50px;
+    display:block;
+    margin:auto;
+}
+#ta_center{
+    text-align: center;
+    font-style: italic;
+
+}
